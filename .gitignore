@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+models/trace_hier.nc
+models/trace_hier_v2.nc
+models/trace_nuts.nc
+models/model_spline.nc
